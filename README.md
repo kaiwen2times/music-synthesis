@@ -1,6 +1,4 @@
-# Project Title
-
-Music Synthesis in Matlab
+# Music Synthesis in Matlab
 
 ## Overview
 
